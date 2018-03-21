@@ -7,5 +7,7 @@ Projeto:
 http://matera.com/br/2017/02/16/crud-com-spring-e-thymeleaf/
 https://github.com/materasystems/spring-thymeleaf-tutorial/blob/master/src/main/java/com/matera/blog/controller/PostController.java
 
+Próximo passo:
+http://blog.algaworks.com/como-criar-web-services-restful-com-spring-boot/
 
 
